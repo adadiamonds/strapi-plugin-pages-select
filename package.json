@@ -1,0 +1,32 @@
+{
+    "name": "strapi-plugin-pages-select",
+    "description": "A strapi custom field for selecting any page from the current Strapi instance.",
+    "keywords": [
+        "strapi",
+        "strapi-plugin",
+        "custom-fields",
+        "pages"
+    ],
+    "version": "1.0.0",
+    "strapi": {
+        "name": "pages-select",
+        "description": "Pages Select custom field",
+        "kind": "plugin",
+        "displayName": "Pages Select"
+    },
+    "dependencies": {
+    },
+    "author": {
+        "name": "Ada Diamonds",
+        "email": "it@adadiamonds.com",
+        "url": "https://www.adadiamonds.com"
+    },
+    "license": "MIT",
+    "peerDependencies": {
+        "@strapi/strapi": "^4.4.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/adadiamonds/strapi-plugin-pages-select.git"
+    }
+}
